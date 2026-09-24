@@ -86,7 +86,7 @@ For completely offline medical explanations:
 
 For license requests, institutional partnerships, feedback, bug reports, or research inquiries, contact the author directly:
 
-* **Author:** Dr. Sobhan Bahrami
+* **Author:** Sobhan Bahrami
 * **Email:** [sobahramisamani@gmail.com](mailto:sobahramisamani@gmail.com)
 
 When emailing for an activation key, please include:
@@ -102,4 +102,4 @@ When emailing for an activation key, please include:
 
 ---
 
-*Copyright © 2024–2026 Dr. Sobhan Bahrami. All rights reserved.*
+*Copyright © 2024–2026 Sobhan Bahrami. All rights reserved.*
