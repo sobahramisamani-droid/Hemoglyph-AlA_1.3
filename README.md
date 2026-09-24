@@ -1,7 +1,7 @@
 # HEMOGLYPH
 
 ### Clinical Decision Support & Multi-System Laboratory Intelligence Suite
-**Author & Lead Architect:** Dr. Sobhan Bahrami  
+**Author & Lead Architect:** Sobhan Bahrami  
 **Contact / Inquiries:** [sobahramisamani@gmail.com](mailto:sobahramisamani@gmail.com)
 
 ---
