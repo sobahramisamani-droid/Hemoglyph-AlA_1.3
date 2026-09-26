@@ -210,7 +210,6 @@ For institutional licensing, research partnerships, academic collaborations, or 
 
 * **Author & Architect:** Sobhan Bahrami
 * **Email:** [sobahramisamani@gmail.com](mailto:sobahramisamani@gmail.com)
-* **Project Repository:** [github.com/sobahramisamani-droid/2222222](https://github.com/sobahramisamani-droid/2222222)
 
 ---
 *Copyright © 2024–2026 Sobhan Bahrami. All rights reserved.*
