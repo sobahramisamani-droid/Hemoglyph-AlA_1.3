@@ -1,6 +1,6 @@
 # HEMOGLYPH CDSS
 
-### Next-Generation Clinical Decision Support & Multi-System Laboratory Intelligence Suite
+### Clinical Decision Support & Multi-System Laboratory Intelligence Suite
 **Production Release v1.3.1 (Windows x64)**
 
 [![Release: v1.3.1](https://img.shields.io/badge/Release-v1.3.1-blue.svg)](https://github.com/sobahramisamani-droid/Hemoglyph-AlA_1.3/releases)
