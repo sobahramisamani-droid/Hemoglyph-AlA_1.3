@@ -67,7 +67,7 @@ HEMOGLYPH adheres to the highest medical confidentiality and data privacy princi
 1. **Zero External Cloud Telemetry:**  
    The application operates completely offline. No patient identifiers, laboratory values, demographics, or diagnostic calculations are ever transmitted across external networks.
 2. **Local Cryptographic Node-Locked Licensing:**  
-   Licensing relies strictly on deterministic hardware identifiers (Motherboard BIOS UUID, CPU Serial, Volume Serial Number, and Windows MachineGuid) signed with asymmetric Military-Grade **RSA-4096 / SHA-512** digital signatures.
+   Licensing relies strictly on deterministic hardware identifiers (Motherboard BIOS UUID, CPU Serial, Volume Serial Number, and Windows MachineGuid) signed with asymmetric  **RSA-4096 / SHA-512** digital signatures.
 3. **Local Database Security:**  
    Patient records and test histories are stored exclusively in a local SQLite database with PBKDF2-HMAC-SHA256 authenticated user encryption.
 
